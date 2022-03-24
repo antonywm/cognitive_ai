@@ -1,5 +1,5 @@
 ############################################################################################################################
-#   AZURE LUIS AI DEMO - Antony Millington (c)2021 Resonate
+#   AZURE LUIS AI DEMO - Antony Millington (c)2021
 #   LUIS.py
 #   This provides a prompt for user input. Passes it to LUIS for language analysis and then pushes the result to a power
 #   automate flow to process the action

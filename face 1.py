@@ -1,5 +1,5 @@
 ############################################################################################################################
-#   AZURE VISION AI DEMO - Antony Millington (c)2021 Resonate
+#   AZURE VISION AI DEMO - Antony Millington (c)2021
 #   face 1.py
 #   This finds faces in an image and draws a bounding box around the face
 #
